@@ -3,7 +3,7 @@
 
 var selectedRow=null;
 var formData=[{'id':'1','name':'vipul','email':'vipul@gmail.com','gender':'Male','hobbies':'Sports','country':'India', 'state':'Gujarat', 'city':'Surat'},
-{'id':'2','name':'aishal','email':'vishal@gmail.com','gender':'Male','hobbies':'Sports','country':'India', 'state':'Gujarat', 'city':'Surat'}
+{'id':'2','name':'vishal','email':'vishal@gmail.com','gender':'Male','hobbies':'Sports','country':'India', 'state':'Gujarat', 'city':'Surat'}
 ];
 insertNewRecord(formData);
 
